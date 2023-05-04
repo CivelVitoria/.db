@@ -1,0 +1,158 @@
+{
+    "usuarios": [
+        {
+            "nome": "1º Cível",
+            "email": "fsfreitas@tjes.jus.br"
+        },
+        {
+            "nome": "2º Cível",
+            "email": "tmgomes@tjes.jus.br"
+        },
+        {
+            "nome": "3º Cível",
+            "email": "bvcomarela@tjes.jus.br"
+        },
+        {
+            "nome": "4º Cível",
+            "email": "acchulam@tjes.jus.br"
+        },
+        {
+            "nome": "5º Cível",
+            "email": "cefilho@tjes.jus.br"
+        },
+        {
+            "nome": "6º Cível",
+            "email": "thaisa.tokill@gmail.com"
+        },
+        {
+            "nome": "7º Cível",
+            "email": "cfleite@tjes.jus.br"
+        },
+        {
+            "nome": "8º Cível",
+            "email": "jppena@tjes.jus.br"
+        },
+        {
+            "nome": "9º Cível",
+            "email": "lhmargotto@tjes.jus.br"
+        },
+        {
+            "nome": "10º Cível",
+            "email": "psmontes@tjes.jus.br"
+        },
+        {
+            "nome": "11º Cível",
+            "email": "aleabreu@tjes.jus.br"
+        },
+        {
+            "nome": "1º de Família",
+            "email": "aboliveira@tjes.jus.br"
+        },
+        {
+            "nome": "2º de Família",
+            "email": "malves@tjes.jus.br"
+        },
+        {
+            "nome": "3º de Família",
+            "email": "mfsouza@tjes.jus.br"
+        },
+        {
+            "nome": "4º de Família",
+            "email": "smsalles@tjes.jus.br"
+        },
+        {
+            "nome": "1º de Orfão",
+            "email": "dcfaustini@tjes.jus.br"
+        },
+        {
+            "nome": "2º de Orfão",
+            "email": "nfpereira@tjes.jus.br"
+        },
+        {
+            "nome": "Acidente do Trabalho",
+            "email": "abmenezes@tjes.jus.br"
+        },
+        {
+            "nome": "Recuperação e Falência",
+            "email": "anmsilva@tjes.jus.br"
+        },
+        {
+            "nome": "Gabriel Boldi",
+            "email": "gabrielbolditeste@gmail.com"
+        },
+        {
+            "nome": "ADM",
+            "email": "audiencias-civel-vitoria@tjes.jus.br"
+        }
+    ],
+
+    "calendarIds": [
+        {
+            "id": "38bcd6af79aafc2409e9cb1c517f8011a99008b63ea688e5ea2bdadbdd29317c@group.calendar.google.com",
+            "sala": "Sala 1"
+        },
+        {
+            "id": "658e05f590c7fc63f7042bb7ce22fbc37f44d092a73755550f421a3999cecfa8@group.calendar.google.com",
+            "sala": "Sala 2"
+        },
+        {
+            "id": "9634a8ad2b9ee6f92e89ee910f88067f2e49036f9333cf45f86beb8ce066b8e0@group.calendar.google.com",
+            "sala": "Sala 3"
+        },
+        {
+            "id": "06ee953fab1c6af5dff855b3cb837855c9c443d848ad777819f2ba6864cb8961@group.calendar.google.com",
+            "sala": "Sala 4"
+        },
+        {
+            "id": "4a17fb26334d629a4a5ba384b4b12b148fe7608063d4435af60355ae51a56ff7@group.calendar.google.com",
+            "sala": "Sala 5"
+        },
+        {
+            "id": "634752bad6fd185e7bb161f9a533880ec2bf539dad562fad698c86c831d775de@group.calendar.google.com",
+            "sala": "Sala 6"
+        },
+        {
+            "id": "88585099a30f9532d2e94a377302ffa00a441de33fe0edfb77a7fb16792e88a0@group.calendar.google.com",
+            "sala": "Sala 7"
+        },
+        {
+            "id": "c9cd45bbd575c5685f81b695e178485765e05b6e4650d1b0097d809272055c0c@group.calendar.google.com",
+            "sala": "Sala 8"
+        },
+        {
+            "id": "c_84181b3db672af28694fac22f5002f188d1fbefabf1a9dfda76e24de29aaae9f@group.calendar.google.com",
+            "sala": "Sala 9"
+        },
+        {   
+            "id": "c_3867f707d8ff1370303fbcb1c2e7a23ebcb8ff138017d43d22efa19482b3043f@group.calendar.google.com",
+            "sala": "Sala 10"
+        },
+        {
+            "id": "c_839d04047b7a43ba4cb2f34f8c0156ebf014e85b57263ff5364a8247e3d264a7@group.calendar.google.com",
+            "sala": "Sala Teste 1"
+        },
+        {
+            "id": "c_6e6f10352a0cfef6cdb30cbf48ca2b11efd7d9d91ffe862b2b1cbb929af1a285@group.calendar.google.com",
+            "sala": "Sala Teste 2"
+        }
+    ],
+    
+    "cedenciais": [
+        {
+            "id": "scopes",
+            "scopes": "https://www.googleapis.com/auth/calendar.readonly"
+        },
+        {
+            "id": "discoveryDocs",
+            "discoveryDocs": "https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest"
+        },
+        {
+            "id": "apiKey",
+            "apiKey": "AIzaSyBQLBw71zHs2WEwyepFCOmr7zhdrw9qTBU"
+        },
+        {
+            "id": "clientId",
+            "clientId": "57090579544-pq7ur7r2r42uqpd6uq5r95g3s55a9jme.apps.googleusercontent.com"
+        }
+    ]
+}
